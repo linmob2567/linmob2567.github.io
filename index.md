@@ -1,4 +1,5 @@
 ## Welcome to My Pages！
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -7,7 +8,7 @@
       <p><b>政治面貌：中共党员</b></p>
       <p><b>毕业院校：石家庄铁道大学</b></p>
       <p><b>邮箱：linmob2567@yeah.net</b></p>
-      <p href="https://www.cnblogs.com/linmob/"><b>博客园：https://www.cnblogs.com/linmob/<b></p>
+      <p href="https://www.cnblogs.com/linmob/"><b>博客园：https://www.cnblogs.com/linmob/</b></p>
       <p><b>电话：15841268237</b></p>
       <p><b>地址：河北省石家庄市北二环东路17号石家庄铁道大学</b></p>
     </td>
