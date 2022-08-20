@@ -26,7 +26,7 @@
       <p><b>地址：河北省石家庄市北二环东路17号石家庄铁道大学</b></p>
     </td>
     <td width="25%">
-      <img src="/hhh.jpg" width="100%">      % 插入证件照代码
+      <img src="/hhh.jpg" width="100%">
     </td>
   </tr>
 </table>
