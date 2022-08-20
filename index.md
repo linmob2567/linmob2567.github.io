@@ -8,7 +8,7 @@
       <p><b>政治面貌：中共党员</b></p>
       <p><b>毕业院校：石家庄铁道大学</b></p>
       <p><b>邮箱：linmob2567@yeah.net</b></p>
-      <p href="https://www.cnblogs.com/linmob/"><b>博客园：https://www.cnblogs.com/linmob/</b></p>
+      <p><b>博客园：https://www.cnblogs.com/linmob/</b></p>
       <p><b>电话：15841268237</b></p>
       <p><b>地址：河北省石家庄市北二环东路17号石家庄铁道大学</b></p>
     </td>
@@ -40,7 +40,7 @@ Java、Javaweb、软件测试、python、Android等
 
 ### 作品展示
 - Python爬取疫情数据可视化显示   
-    <p href="https://www.cnblogs.com/linmob/p/14611695.html">https://www.cnblogs.com/linmob/p/14611695.html</p>
+    <p>https://www.cnblogs.com/linmob/p/14611695.html</p>
 ![image](https://user-images.githubusercontent.com/72333813/185742685-5e3ecd98-a9fd-4d9e-b67b-1f6251bebea8.png)
 
 - 班级体温汇报app
