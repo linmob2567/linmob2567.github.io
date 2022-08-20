@@ -26,7 +26,7 @@
       <p><b>地址：河北省石家庄市北二环东路17号石家庄铁道大学</b></p>
     </td>
     <td width="25%">
-      <img src="/QQ图片20191207164758.jpg" width="100%">      % 插入证件照代码
+      <img src="https://github.com/linmob2567/linmob2567.github.io/blob/main/QQ%E5%9B%BE%E7%89%8720191207164758.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
